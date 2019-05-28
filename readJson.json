@@ -1,0 +1,38 @@
+{
+     "lastName":"Smith",
+    "address":{
+        "streetAddress":"21 2nd Street",
+         "city":"New York",
+         "state":"NY",
+         "postalCode":10021
+    },
+     "age":25,
+     "phoneNumbers":[
+            {
+            "type":"home", "number":"212 555-1234"
+            },
+         {
+            "type":"fax", "number":"212 555-1234"
+         }
+     ],
+     "cars" : [ {
+    "name" : "Audi",
+    "model" : "2010",
+    "cost" : 30000,
+    "colors" : [ "Grey", "white" ],
+    "engine" : {
+      "type" : "Diesel",
+      "power" : "88KWH"
+    }
+  }, {
+    "name" : "Jaguar",
+    "model" : "2013",
+    "cost" : 60000,
+    "colors" : [ "Grey", "white" ],
+    "engine" : {
+      "type" : "Diesel",
+      "power" : "120KWH"
+    }
+  } ],
+     "firstName":"John"
+}
